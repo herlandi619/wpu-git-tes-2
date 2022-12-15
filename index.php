@@ -13,5 +13,12 @@
 </h1>
 
 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Unde, voluptatibus!</p>
+<ul>
+    <li>satu</li>
+    <li>satu</li>
+    <li>satu</li>
+
+</ul>
+
 </body>
 </html>
